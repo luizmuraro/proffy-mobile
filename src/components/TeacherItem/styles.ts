@@ -50,10 +50,9 @@ const styles = StyleSheet.create({
 
     footer: {
         backgroundColor: '#fafafc',
-        paddingHorizontal: 24,
-        marginTop: 8,
-        paddingTop: 8,
-        alignItems: 'center'
+        padding: 24,
+        alignItems: 'center',
+        marginTop: 24
     },
 
     price: {
